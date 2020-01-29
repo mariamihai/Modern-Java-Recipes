@@ -1,0 +1,4 @@
+package chapter_4_Comparators_and_Collectors;
+
+public class Recipe_4_2_Converting_a_Stream_into_a_Collection {
+}

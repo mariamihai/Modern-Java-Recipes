@@ -1,0 +1,4 @@
+package chapter_5_Issues_with_Stream_Lambdas_and_Method_References;
+
+public class Recipe_5_8_Closure_Composition {
+}

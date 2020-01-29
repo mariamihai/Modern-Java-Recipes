@@ -1,0 +1,4 @@
+package chapter_4_Comparators_and_Collectors;
+
+public class Recipe_4_3_Adding_a_Linear_Collection_to_a_Map {
+}
