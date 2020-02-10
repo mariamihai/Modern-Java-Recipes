@@ -7,7 +7,7 @@ In the root of the project run:
 The depth of the hierarchy needs to be taken into consideration when generating the Javadoc files.
 
 ## < and > characters
-&#60; and &#62;
+&#60 ; and &#62 ;
 
 ## Referencing methods from current class
 For referencing a method from the current class you could use {@link #anonymousInnerClassForRunnable()} and not
