@@ -10,8 +10,9 @@ The depth of the hierarchy needs to be taken into consideration when generating 
 &#60 ; and &#62 ;
 
 ## Referencing methods from current class
-For referencing a method from the current class you could use {@ link # anonymousInnerClassForRunnable()} and not
-{@ link LambdaExpression # anonymousInnerClassForRunnable()}
+For referencing a method from the current class you could use {@link#anonymousInnerClassForRunnable()} and not
+{@link LambdaExpression#anonymousInnerClassForRunnable()}
+(Check raw document for code.)
 
 ## Add description to the package
 In the package for which a description is needed implement package-info.java file.
